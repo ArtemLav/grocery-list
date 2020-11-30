@@ -1,5 +1,5 @@
 import React, { useMemo, useState } from 'react';
-import { useLocalStorage } from './useLocalStorage';
+import { useLocalStorage } from './hooks/useLocalStorage';
 import { FILTERS } from './constants/constants';
 import { AddGrocery } from './components/AddGrocery/AddGrocery';
 import { GroceryList } from './components/GroceryList/GroceryList';
