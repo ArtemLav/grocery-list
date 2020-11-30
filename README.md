@@ -1,11 +1,19 @@
-# React Starter Pack
+# Project Title
 
-To use this template click `Use this template`
+You can check out working DEMO [here](https://artemlav.github.io/grocery-list/)
 
-### Available Scripts
+## Description
 
-`Deploy` - available to deploy your application to gh-pages
+For storing data I used my custom localStorage hook\
+Bootstrap used for styling
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+### Dependencies
+* Node v12.16.3 and higher
+* NPM v6.14.4 and higher
 
-`React router` - available to use dynamic routes to switch between pages
+
+### Installing
+* Fork and clone this repository
+* Run `npm install` in your terminal
+* Run `npm start`
+
